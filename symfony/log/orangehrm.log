@@ -1,0 +1,528 @@
+[24-Feb-2013 22:18:00 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/themes/default/images/login/logo.png" (/).
+[24-Feb-2013 22:18:00 UTC] PHP Fatal error:  Uncaught exception 'sfStopException' in /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php:96
+Stack trace:
+#0 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php(55): sfBasicSecurityFilter->forwardToLoginAction()
+#1 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfBasicSecurityFilter->execute(Object(sfFilterChain))
+#2 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(995): sfFilterChain->execute()
+#3 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfRenderingFilter->execute(Object(sfFilterChain))
+#4 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(665): sfFilterChain->execute()
+#5 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/exception/sfError404Exception.class.php(49): sfController->forward('default', 'err in /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php on line 96
+[24-Feb-2013 22:26:36 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/themes/default/images/login/logo.png" (/).
+[24-Feb-2013 22:26:36 UTC] PHP Fatal error:  Uncaught exception 'sfStopException' in /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php:96
+Stack trace:
+#0 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php(55): sfBasicSecurityFilter->forwardToLoginAction()
+#1 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfBasicSecurityFilter->execute(Object(sfFilterChain))
+#2 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(995): sfFilterChain->execute()
+#3 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfRenderingFilter->execute(Object(sfFilterChain))
+#4 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(665): sfFilterChain->execute()
+#5 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/exception/sfError404Exception.class.php(49): sfController->forward('default', 'err in /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php on line 96
+[24-Feb-2013 22:27:13 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/themes/default/images/login/logo.png" (/).
+[24-Feb-2013 22:27:13 UTC] PHP Fatal error:  Uncaught exception 'sfStopException' in /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php:96
+Stack trace:
+#0 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php(55): sfBasicSecurityFilter->forwardToLoginAction()
+#1 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfBasicSecurityFilter->execute(Object(sfFilterChain))
+#2 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(995): sfFilterChain->execute()
+#3 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfRenderingFilter->execute(Object(sfFilterChain))
+#4 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(665): sfFilterChain->execute()
+#5 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/exception/sfError404Exception.class.php(49): sfController->forward('default', 'err in /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php on line 96
+[24-Feb-2013 22:28:21 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/themes/default/images/login/logo.png" (/).
+[24-Feb-2013 22:28:21 UTC] PHP Fatal error:  Uncaught exception 'sfStopException' in /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php:96
+Stack trace:
+#0 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php(55): sfBasicSecurityFilter->forwardToLoginAction()
+#1 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfBasicSecurityFilter->execute(Object(sfFilterChain))
+#2 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(995): sfFilterChain->execute()
+#3 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfRenderingFilter->execute(Object(sfFilterChain))
+#4 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(665): sfFilterChain->execute()
+#5 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/exception/sfError404Exception.class.php(49): sfController->forward('default', 'err in /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php on line 96
+[24-Feb-2013 22:29:04 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/themes/default/images/login/logo.png" (/).
+[24-Feb-2013 22:29:04 UTC] PHP Fatal error:  Uncaught exception 'sfStopException' in /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php:96
+Stack trace:
+#0 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php(55): sfBasicSecurityFilter->forwardToLoginAction()
+#1 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfBasicSecurityFilter->execute(Object(sfFilterChain))
+#2 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(995): sfFilterChain->execute()
+#3 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfRenderingFilter->execute(Object(sfFilterChain))
+#4 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(665): sfFilterChain->execute()
+#5 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/exception/sfError404Exception.class.php(49): sfController->forward('default', 'err in /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php on line 96
+[24-Feb-2013 22:29:42 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/themes/default/images/login/logo.png" (/).
+[24-Feb-2013 22:29:42 UTC] PHP Fatal error:  Uncaught exception 'sfStopException' in /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php:96
+Stack trace:
+#0 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php(55): sfBasicSecurityFilter->forwardToLoginAction()
+#1 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfBasicSecurityFilter->execute(Object(sfFilterChain))
+#2 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(995): sfFilterChain->execute()
+#3 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfRenderingFilter->execute(Object(sfFilterChain))
+#4 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(665): sfFilterChain->execute()
+#5 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/exception/sfError404Exception.class.php(49): sfController->forward('default', 'err in /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php on line 96
+[24-Feb-2013 22:31:01 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/themes/default/images/login/logo.png" (/).
+[24-Feb-2013 22:31:01 UTC] PHP Fatal error:  Uncaught exception 'sfStopException' in /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php:96
+Stack trace:
+#0 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php(55): sfBasicSecurityFilter->forwardToLoginAction()
+#1 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfBasicSecurityFilter->execute(Object(sfFilterChain))
+#2 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(995): sfFilterChain->execute()
+#3 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfRenderingFilter->execute(Object(sfFilterChain))
+#4 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(665): sfFilterChain->execute()
+#5 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/exception/sfError404Exception.class.php(49): sfController->forward('default', 'err in /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php on line 96
+[24-Feb-2013 22:31:49 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/themes/default/images/login/logo.png" (/).
+[24-Feb-2013 22:31:49 UTC] PHP Fatal error:  Uncaught exception 'sfStopException' in /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php:96
+Stack trace:
+#0 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php(55): sfBasicSecurityFilter->forwardToLoginAction()
+#1 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfBasicSecurityFilter->execute(Object(sfFilterChain))
+#2 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(995): sfFilterChain->execute()
+#3 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfRenderingFilter->execute(Object(sfFilterChain))
+#4 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(665): sfFilterChain->execute()
+#5 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/exception/sfError404Exception.class.php(49): sfController->forward('default', 'err in /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php on line 96
+[24-Feb-2013 22:33:16 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/themes/default/images/login/logo.png" (/).
+[24-Feb-2013 22:33:16 UTC] PHP Fatal error:  Uncaught exception 'sfStopException' in /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php:96
+Stack trace:
+#0 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php(55): sfBasicSecurityFilter->forwardToLoginAction()
+#1 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfBasicSecurityFilter->execute(Object(sfFilterChain))
+#2 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(995): sfFilterChain->execute()
+#3 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfRenderingFilter->execute(Object(sfFilterChain))
+#4 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(665): sfFilterChain->execute()
+#5 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/exception/sfError404Exception.class.php(49): sfController->forward('default', 'err in /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php on line 96
+[24-Feb-2013 22:36:03 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/themes/default/images/login/logo.png" (/).
+[24-Feb-2013 22:36:03 UTC] PHP Fatal error:  Uncaught exception 'sfStopException' in /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php:96
+Stack trace:
+#0 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php(55): sfBasicSecurityFilter->forwardToLoginAction()
+#1 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfBasicSecurityFilter->execute(Object(sfFilterChain))
+#2 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(995): sfFilterChain->execute()
+#3 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfRenderingFilter->execute(Object(sfFilterChain))
+#4 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(665): sfFilterChain->execute()
+#5 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/exception/sfError404Exception.class.php(49): sfController->forward('default', 'err in /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php on line 96
+[24-Feb-2013 22:37:30 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/themes/default/images/login/logo.png" (/).
+[24-Feb-2013 22:37:30 UTC] PHP Fatal error:  Uncaught exception 'sfStopException' in /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php:96
+Stack trace:
+#0 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php(55): sfBasicSecurityFilter->forwardToLoginAction()
+#1 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfBasicSecurityFilter->execute(Object(sfFilterChain))
+#2 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(995): sfFilterChain->execute()
+#3 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfRenderingFilter->execute(Object(sfFilterChain))
+#4 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(665): sfFilterChain->execute()
+#5 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/exception/sfError404Exception.class.php(49): sfController->forward('default', 'err in /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php on line 96
+[24-Feb-2013 22:38:24 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/themes/default/images/login/logo.png" (/).
+[24-Feb-2013 22:38:24 UTC] PHP Fatal error:  Uncaught exception 'sfStopException' in /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php:96
+Stack trace:
+#0 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php(55): sfBasicSecurityFilter->forwardToLoginAction()
+#1 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfBasicSecurityFilter->execute(Object(sfFilterChain))
+#2 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(995): sfFilterChain->execute()
+#3 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfRenderingFilter->execute(Object(sfFilterChain))
+#4 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(665): sfFilterChain->execute()
+#5 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/exception/sfError404Exception.class.php(49): sfController->forward('default', 'err in /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php on line 96
+[24-Feb-2013 22:38:31 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/themes/default/images/login/logo.png" (/).
+[24-Feb-2013 22:38:31 UTC] PHP Fatal error:  Uncaught exception 'sfStopException' in /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php:96
+Stack trace:
+#0 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php(55): sfBasicSecurityFilter->forwardToLoginAction()
+#1 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfBasicSecurityFilter->execute(Object(sfFilterChain))
+#2 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(995): sfFilterChain->execute()
+#3 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfRenderingFilter->execute(Object(sfFilterChain))
+#4 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(665): sfFilterChain->execute()
+#5 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/exception/sfError404Exception.class.php(49): sfController->forward('default', 'err in /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php on line 96
+[24-Feb-2013 22:39:06 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/themes/default/images/login/logo.png" (/).
+[24-Feb-2013 22:39:06 UTC] PHP Fatal error:  Uncaught exception 'sfStopException' in /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php:96
+Stack trace:
+#0 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php(55): sfBasicSecurityFilter->forwardToLoginAction()
+#1 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfBasicSecurityFilter->execute(Object(sfFilterChain))
+#2 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(995): sfFilterChain->execute()
+#3 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfRenderingFilter->execute(Object(sfFilterChain))
+#4 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(665): sfFilterChain->execute()
+#5 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/exception/sfError404Exception.class.php(49): sfController->forward('default', 'err in /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php on line 96
+Mon 25 Feb 2013 02:09:23 AM PST,960 [14841] INFO core.email - ========== Message Begins ==========
+
+Time : February 25, 2013, 2:09 am
+Message Type : Success
+Message : Emails was sent to suman@excent.co using smtp
+
+========== Message Ends ==========
+
+
+[25-Feb-2013 10:21:39 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 10:22:00 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 10:22:21 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 10:22:58 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 10:23:11 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 10:23:26 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 10:23:36 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 10:24:01 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 10:24:17 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 10:24:39 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 10:27:13 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 10:27:13 UTC] PHP Fatal error:  Uncaught exception 'sfStopException' in /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php:96
+Stack trace:
+#0 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php(55): sfBasicSecurityFilter->forwardToLoginAction()
+#1 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfBasicSecurityFilter->execute(Object(sfFilterChain))
+#2 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(995): sfFilterChain->execute()
+#3 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfRenderingFilter->execute(Object(sfFilterChain))
+#4 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(665): sfFilterChain->execute()
+#5 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/exception/sfError404Exception.class.php(49): sfController->forward('default', 'err in /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php on line 96
+[25-Feb-2013 11:38:55 UTC] PHP Fatal error:  Call to a member function getFullName() on a non-object in /home/srikby/public_html/time/symfony/plugins/orangehrmPimPlugin/lib/form/EmployeePersonalDetailsForm.php on line 78
+[25-Feb-2013 11:38:58 UTC] PHP Fatal error:  Call to a member function getFullName() on a non-object in /home/srikby/public_html/time/symfony/plugins/orangehrmPimPlugin/lib/form/EmployeePersonalDetailsForm.php on line 78
+[25-Feb-2013 11:39:02 UTC] PHP Fatal error:  Call to a member function getFullName() on a non-object in /home/srikby/public_html/time/symfony/plugins/orangehrmPimPlugin/lib/form/EmployeePersonalDetailsForm.php on line 78
+[25-Feb-2013 12:44:21 UTC] PHP Fatal error:  Call to a member function getFullName() on a non-object in /home/srikby/public_html/time/symfony/plugins/orangehrmPimPlugin/lib/form/EmployeeContactDetailsForm.php on line 55
+[25-Feb-2013 15:30:27 UTC] PHP Fatal error:  Call to a member function getFullName() on a non-object in /home/srikby/public_html/time/symfony/plugins/orangehrmPimPlugin/lib/form/EmployeePersonalDetailsForm.php on line 78
+Mon 25 Feb 2013 08:57:35 AM PST,944 [17233] INFO core.email - ========== Message Begins ==========
+
+Time : February 25, 2013, 8:57 am
+Message Type : Success
+Message : Leave application email was sent to suman@excent.co
+
+========== Message Ends ==========
+
+
+Mon 25 Feb 2013 08:57:38 AM PST,963 [17233] INFO core.email - ========== Message Begins ==========
+
+Time : February 25, 2013, 8:57 am
+Message Type : Success
+Message : Leave application email was sent to exhr@excent.co
+
+========== Message Ends ==========
+
+
+Mon 25 Feb 2013 09:00:34 AM PST,326 [14610] INFO core.email - ========== Message Begins ==========
+
+Time : February 25, 2013, 9:00 am
+Message Type : Success
+Message : Leave application email was sent to suman@excent.co
+
+========== Message Ends ==========
+
+
+Mon 25 Feb 2013 09:00:34 AM PST,946 [14610] INFO core.email - ========== Message Begins ==========
+
+Time : February 25, 2013, 9:00 am
+Message Type : Success
+Message : Leave application email was sent to exhr@excent.co
+
+========== Message Ends ==========
+
+
+[25-Feb-2013 17:08:01 UTC] PHP Fatal error:  Call to a member function getFullName() on a non-object in /home/srikby/public_html/time/symfony/plugins/orangehrmPimPlugin/lib/form/EmployeeContactDetailsForm.php on line 55
+[25-Feb-2013 17:17:56 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 17:18:14 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 17:18:27 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 17:19:24 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 17:19:41 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 17:20:50 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 17:21:05 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 17:21:05 UTC] PHP Fatal error:  Uncaught exception 'sfStopException' in /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php:96
+Stack trace:
+#0 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php(55): sfBasicSecurityFilter->forwardToLoginAction()
+#1 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfBasicSecurityFilter->execute(Object(sfFilterChain))
+#2 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(995): sfFilterChain->execute()
+#3 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfRenderingFilter->execute(Object(sfFilterChain))
+#4 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(665): sfFilterChain->execute()
+#5 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/exception/sfError404Exception.class.php(49): sfController->forward('default', 'err in /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php on line 96
+[25-Feb-2013 17:21:09 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 17:21:29 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 17:21:55 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 17:22:06 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 17:22:18 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 17:22:43 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 17:23:02 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 17:23:48 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 17:24:02 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 17:55:48 UTC] Action "admin/viewSystemUser" does not exist.
+[25-Feb-2013 17:58:24 UTC] Action "admin/viewSystemUser" does not exist.
+[25-Feb-2013 17:58:24 UTC] PHP Fatal error:  Uncaught exception 'sfStopException' in /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php:96
+Stack trace:
+#0 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php(55): sfBasicSecurityFilter->forwardToLoginAction()
+#1 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfBasicSecurityFilter->execute(Object(sfFilterChain))
+#2 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(995): sfFilterChain->execute()
+#3 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfRenderingFilter->execute(Object(sfFilterChain))
+#4 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(665): sfFilterChain->execute()
+#5 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/exception/sfError404Exception.class.php(49): sfController->forward('default', 'err in /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php on line 96
+[25-Feb-2013 20:10:18 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 20:10:31 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 20:10:43 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 20:11:05 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 20:11:27 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 20:11:49 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 20:12:03 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 20:12:19 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 20:12:55 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 20:13:10 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 20:13:29 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 20:13:29 UTC] PHP Fatal error:  Uncaught exception 'sfStopException' in /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php:96
+Stack trace:
+#0 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php(55): sfBasicSecurityFilter->forwardToLoginAction()
+#1 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfBasicSecurityFilter->execute(Object(sfFilterChain))
+#2 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(995): sfFilterChain->execute()
+#3 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfRenderingFilter->execute(Object(sfFilterChain))
+#4 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(665): sfFilterChain->execute()
+#5 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/exception/sfError404Exception.class.php(49): sfController->forward('default', 'err in /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php on line 96
+[25-Feb-2013 20:13:30 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 20:13:50 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 20:14:08 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 20:14:28 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 20:14:52 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 20:15:09 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 20:15:21 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 20:15:33 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 20:15:52 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 20:16:18 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 20:16:31 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 20:17:08 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 20:17:28 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 20:18:37 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/js/jquery/jquery.form" (/).
+[25-Feb-2013 20:18:37 UTC] PHP Fatal error:  Uncaught exception 'sfStopException' in /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php:96
+Stack trace:
+#0 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php(55): sfBasicSecurityFilter->forwardToLoginAction()
+#1 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfBasicSecurityFilter->execute(Object(sfFilterChain))
+#2 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(995): sfFilterChain->execute()
+#3 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfRenderingFilter->execute(Object(sfFilterChain))
+#4 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(665): sfFilterChain->execute()
+#5 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/exception/sfError404Exception.class.php(49): sfController->forward('default', 'err in /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php on line 96
+[26-Feb-2013 08:14:44 UTC] PHP Fatal error:  Call to a member function getFullName() on a non-object in /home/srikby/public_html/time/symfony/plugins/orangehrmPimPlugin/lib/form/EmployeeContactDetailsForm.php on line 55
+[26-Feb-2013 08:25:29 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/orangehrmAdminPlugin/css/viewEducationSuccess.css" (/).
+[26-Feb-2013 08:25:39 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/orangehrmAdminPlugin/css/viewEducationSuccess.css" (/).
+[26-Feb-2013 08:25:48 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/orangehrmAdminPlugin/css/viewEducationSuccess.css" (/).
+[26-Feb-2013 08:26:01 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/orangehrmAdminPlugin/css/viewEducationSuccess.css" (/).
+[26-Feb-2013 08:26:12 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/orangehrmAdminPlugin/css/viewEducationSuccess.css" (/).
+[26-Feb-2013 08:26:51 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/orangehrmAdminPlugin/css/viewEducationSuccess.css" (/).
+[26-Feb-2013 08:27:08 UTC] Empty module and/or action after parsing the URL "/webres_511cd92da3f479.60677824/orangehrmAdminPlugin/css/viewEducationSuccess.css" (/).
+Tue 26 Feb 2013 12:41:11 AM PST,819 [31390] ERROR filter.ExceptionCatcherFilter - Uncaught Exception: exception 'sfRenderException' with message 'The template "_Certifications.php" does not exist or is unreadable in "".' in /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php:2029
+Stack trace:
+#0 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/view/sfPartialView.class.php(119): sfView->preRenderCheck()
+#1 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/helper/PartialHelper.php(220): sfPartialView->render()
+#2 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/helper/PartialHelper.php(182): get_partial('Certifications', Array)
+#3 /home/srikby/public_html/time/symfony/plugins/orangehrmPimPlugin/modules/pim/templates/viewQualificationsSuccess.php(210): include_partial('Certifications', Array)
+#4 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(3851): require('/home/srikby/pu...')
+#5 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(3910): sfPHPView->renderFile('/home/srikby/pu...')
+#6 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(979): sfPHPView->render()
+#7 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(966): sfExecutionFilter->executeView('pim', 'viewQualificati...', 'Success', Array)
+#8 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(934): sfExecutionFilter->handleView(Object(sfFilterChain), Object(viewQualificationsAction), 'Success')
+#9 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfExecutionFilter->execute(Object(sfFilterChain))
+#10 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfCommonFilter.class.php(29): sfFilterChain->execute()
+#11 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfCommonFilter->execute(Object(sfFilterChain))
+#12 /home/srikby/public_html/time/symfony/plugins/orangehrmCorePlugin/lib/filter/orangehrmPostExecutionFilter.php(22): sfFilterChain->execute()
+#13 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): orangehrmPostExecutionFilter->execute(Object(sfFilterChain))
+#14 /home/srikby/public_html/time/symfony/apps/orangehrm/lib/filter/ModuleFilter.php(56): sfFilterChain->execute()
+#15 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): ModuleFilter->execute(Object(sfFilterChain))
+#16 /home/srikby/public_html/time/symfony/plugins/orangehrmCorePlugin/lib/authorization/filter/ohrmAuthorizationFilter.php(97): sfFilterChain->execute()
+#17 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): ohrmAuthorizationFilter->execute(Object(sfFilterChain))
+#18 /home/srikby/public_html/time/symfony/apps/orangehrm/lib/filter/SessionInfoFetcherFilter.php(67): sfFilterChain->execute()
+#19 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): SessionInfoFetcherFilter->execute(Object(sfFilterChain))
+#20 /home/srikby/public_html/time/symfony/apps/orangehrm/lib/filter/OrangeI18NFilter.php(58): sfFilterChain->execute()
+#21 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): OrangeI18NFilter->execute(Object(sfFilterChain))
+#22 /home/srikby/public_html/time/symfony/apps/orangehrm/lib/filter/ExceptionCatcherFilter.php(26): sfFilterChain->execute()
+#23 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): ExceptionCatcherFilter->execute(Object(sfFilterChain))
+#24 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php(72): sfFilterChain->execute()
+#25 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfBasicSecurityFilter->execute(Object(sfFilterChain))
+#26 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(995): sfFilterChain->execute()
+#27 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfRenderingFilter->execute(Object(sfFilterChain))
+#28 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(665): sfFilterChain->execute()
+#29 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(2352): sfController->forward('pim', 'viewQualificati...')
+#30 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/util/sfContext.class.php(170): sfFrontWebController->dispatch()
+#31 /home/srikby/public_html/time/symfony/web/index.php(22): sfContext->dispatch()
+#32 {main}
+Tue 26 Feb 2013 12:41:23 AM PST,674 [799] ERROR filter.ExceptionCatcherFilter - Uncaught Exception: exception 'sfRenderException' with message 'The template "_Certifications.php" does not exist or is unreadable in "".' in /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php:2029
+Stack trace:
+#0 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/view/sfPartialView.class.php(119): sfView->preRenderCheck()
+#1 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/helper/PartialHelper.php(220): sfPartialView->render()
+#2 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/helper/PartialHelper.php(182): get_partial('Certifications', Array)
+#3 /home/srikby/public_html/time/symfony/plugins/orangehrmPimPlugin/modules/pim/templates/viewQualificationsSuccess.php(210): include_partial('Certifications', Array)
+#4 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(3851): require('/home/srikby/pu...')
+#5 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(3910): sfPHPView->renderFile('/home/srikby/pu...')
+#6 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(979): sfPHPView->render()
+#7 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(966): sfExecutionFilter->executeView('pim', 'viewQualificati...', 'Success', Array)
+#8 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(934): sfExecutionFilter->handleView(Object(sfFilterChain), Object(viewQualificationsAction), 'Success')
+#9 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfExecutionFilter->execute(Object(sfFilterChain))
+#10 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfCommonFilter.class.php(29): sfFilterChain->execute()
+#11 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfCommonFilter->execute(Object(sfFilterChain))
+#12 /home/srikby/public_html/time/symfony/plugins/orangehrmCorePlugin/lib/filter/orangehrmPostExecutionFilter.php(22): sfFilterChain->execute()
+#13 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): orangehrmPostExecutionFilter->execute(Object(sfFilterChain))
+#14 /home/srikby/public_html/time/symfony/apps/orangehrm/lib/filter/ModuleFilter.php(56): sfFilterChain->execute()
+#15 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): ModuleFilter->execute(Object(sfFilterChain))
+#16 /home/srikby/public_html/time/symfony/plugins/orangehrmCorePlugin/lib/authorization/filter/ohrmAuthorizationFilter.php(97): sfFilterChain->execute()
+#17 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): ohrmAuthorizationFilter->execute(Object(sfFilterChain))
+#18 /home/srikby/public_html/time/symfony/apps/orangehrm/lib/filter/SessionInfoFetcherFilter.php(67): sfFilterChain->execute()
+#19 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): SessionInfoFetcherFilter->execute(Object(sfFilterChain))
+#20 /home/srikby/public_html/time/symfony/apps/orangehrm/lib/filter/OrangeI18NFilter.php(58): sfFilterChain->execute()
+#21 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): OrangeI18NFilter->execute(Object(sfFilterChain))
+#22 /home/srikby/public_html/time/symfony/apps/orangehrm/lib/filter/ExceptionCatcherFilter.php(26): sfFilterChain->execute()
+#23 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): ExceptionCatcherFilter->execute(Object(sfFilterChain))
+#24 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php(72): sfFilterChain->execute()
+#25 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfBasicSecurityFilter->execute(Object(sfFilterChain))
+#26 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(995): sfFilterChain->execute()
+#27 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfRenderingFilter->execute(Object(sfFilterChain))
+#28 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(665): sfFilterChain->execute()
+#29 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(2352): sfController->forward('pim', 'viewQualificati...')
+#30 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/util/sfContext.class.php(170): sfFrontWebController->dispatch()
+#31 /home/srikby/public_html/time/symfony/web/index.php(22): sfContext->dispatch()
+#32 {main}
+Tue 26 Feb 2013 12:41:58 AM PST,357 [8316] ERROR filter.ExceptionCatcherFilter - Uncaught Exception: exception 'sfRenderException' with message 'The template "_Licenses.php" does not exist or is unreadable in "".' in /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php:2029
+Stack trace:
+#0 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/view/sfPartialView.class.php(119): sfView->preRenderCheck()
+#1 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/helper/PartialHelper.php(220): sfPartialView->render()
+#2 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/helper/PartialHelper.php(182): get_partial('Licenses', Array)
+#3 /home/srikby/public_html/time/symfony/plugins/orangehrmPimPlugin/modules/pim/templates/viewQualificationsSuccess.php(210): include_partial('Licenses', Array)
+#4 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(3851): require('/home/srikby/pu...')
+#5 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(3910): sfPHPView->renderFile('/home/srikby/pu...')
+#6 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(979): sfPHPView->render()
+#7 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(966): sfExecutionFilter->executeView('pim', 'viewQualificati...', 'Success', Array)
+#8 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(934): sfExecutionFilter->handleView(Object(sfFilterChain), Object(viewQualificationsAction), 'Success')
+#9 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfExecutionFilter->execute(Object(sfFilterChain))
+#10 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfCommonFilter.class.php(29): sfFilterChain->execute()
+#11 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfCommonFilter->execute(Object(sfFilterChain))
+#12 /home/srikby/public_html/time/symfony/plugins/orangehrmCorePlugin/lib/filter/orangehrmPostExecutionFilter.php(22): sfFilterChain->execute()
+#13 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): orangehrmPostExecutionFilter->execute(Object(sfFilterChain))
+#14 /home/srikby/public_html/time/symfony/apps/orangehrm/lib/filter/ModuleFilter.php(56): sfFilterChain->execute()
+#15 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): ModuleFilter->execute(Object(sfFilterChain))
+#16 /home/srikby/public_html/time/symfony/plugins/orangehrmCorePlugin/lib/authorization/filter/ohrmAuthorizationFilter.php(97): sfFilterChain->execute()
+#17 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): ohrmAuthorizationFilter->execute(Object(sfFilterChain))
+#18 /home/srikby/public_html/time/symfony/apps/orangehrm/lib/filter/SessionInfoFetcherFilter.php(67): sfFilterChain->execute()
+#19 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): SessionInfoFetcherFilter->execute(Object(sfFilterChain))
+#20 /home/srikby/public_html/time/symfony/apps/orangehrm/lib/filter/OrangeI18NFilter.php(58): sfFilterChain->execute()
+#21 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): OrangeI18NFilter->execute(Object(sfFilterChain))
+#22 /home/srikby/public_html/time/symfony/apps/orangehrm/lib/filter/ExceptionCatcherFilter.php(26): sfFilterChain->execute()
+#23 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): ExceptionCatcherFilter->execute(Object(sfFilterChain))
+#24 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php(72): sfFilterChain->execute()
+#25 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfBasicSecurityFilter->execute(Object(sfFilterChain))
+#26 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(995): sfFilterChain->execute()
+#27 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfRenderingFilter->execute(Object(sfFilterChain))
+#28 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(665): sfFilterChain->execute()
+#29 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(2352): sfController->forward('pim', 'viewQualificati...')
+#30 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/util/sfContext.class.php(170): sfFrontWebController->dispatch()
+#31 /home/srikby/public_html/time/symfony/web/index.php(22): sfContext->dispatch()
+#32 {main}
+Tue 26 Feb 2013 12:42:05 AM PST,348 [8932] ERROR filter.ExceptionCatcherFilter - Uncaught Exception: exception 'sfRenderException' with message 'The template "_Licenses.php" does not exist or is unreadable in "".' in /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php:2029
+Stack trace:
+#0 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/view/sfPartialView.class.php(119): sfView->preRenderCheck()
+#1 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/helper/PartialHelper.php(220): sfPartialView->render()
+#2 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/helper/PartialHelper.php(182): get_partial('Licenses', Array)
+#3 /home/srikby/public_html/time/symfony/plugins/orangehrmPimPlugin/modules/pim/templates/viewQualificationsSuccess.php(210): include_partial('Licenses', Array)
+#4 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(3851): require('/home/srikby/pu...')
+#5 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(3910): sfPHPView->renderFile('/home/srikby/pu...')
+#6 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(979): sfPHPView->render()
+#7 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(966): sfExecutionFilter->executeView('pim', 'viewQualificati...', 'Success', Array)
+#8 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(934): sfExecutionFilter->handleView(Object(sfFilterChain), Object(viewQualificationsAction), 'Success')
+#9 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfExecutionFilter->execute(Object(sfFilterChain))
+#10 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfCommonFilter.class.php(29): sfFilterChain->execute()
+#11 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfCommonFilter->execute(Object(sfFilterChain))
+#12 /home/srikby/public_html/time/symfony/plugins/orangehrmCorePlugin/lib/filter/orangehrmPostExecutionFilter.php(22): sfFilterChain->execute()
+#13 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): orangehrmPostExecutionFilter->execute(Object(sfFilterChain))
+#14 /home/srikby/public_html/time/symfony/apps/orangehrm/lib/filter/ModuleFilter.php(56): sfFilterChain->execute()
+#15 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): ModuleFilter->execute(Object(sfFilterChain))
+#16 /home/srikby/public_html/time/symfony/plugins/orangehrmCorePlugin/lib/authorization/filter/ohrmAuthorizationFilter.php(97): sfFilterChain->execute()
+#17 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): ohrmAuthorizationFilter->execute(Object(sfFilterChain))
+#18 /home/srikby/public_html/time/symfony/apps/orangehrm/lib/filter/SessionInfoFetcherFilter.php(67): sfFilterChain->execute()
+#19 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): SessionInfoFetcherFilter->execute(Object(sfFilterChain))
+#20 /home/srikby/public_html/time/symfony/apps/orangehrm/lib/filter/OrangeI18NFilter.php(58): sfFilterChain->execute()
+#21 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): OrangeI18NFilter->execute(Object(sfFilterChain))
+#22 /home/srikby/public_html/time/symfony/apps/orangehrm/lib/filter/ExceptionCatcherFilter.php(26): sfFilterChain->execute()
+#23 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): ExceptionCatcherFilter->execute(Object(sfFilterChain))
+#24 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php(72): sfFilterChain->execute()
+#25 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfBasicSecurityFilter->execute(Object(sfFilterChain))
+#26 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(995): sfFilterChain->execute()
+#27 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfRenderingFilter->execute(Object(sfFilterChain))
+#28 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(665): sfFilterChain->execute()
+#29 /home/srikby/public_html/time/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(2352): sfController->forward('pim', 'viewQualificati...')
+#30 /home/srikby/public_html/time/symfony/lib/vendor/symfony/lib/util/sfContext.class.php(170): sfFrontWebController->dispatch()
+#31 /home/srikby/public_html/time/symfony/web/index.php(22): sfContext->dispatch()
+#32 {main}
+Tue 26 Feb 2013 04:43:44 AM PST,223 [10358] INFO core.email - ========== Message Begins ==========
+
+Time : February 26, 2013, 4:43 am
+Message Type : Success
+Message : Leave application email was sent to srikanth@excent.co
+
+========== Message Ends ==========
+
+
+Tue 26 Feb 2013 04:43:46 AM PST,668 [10358] INFO core.email - ========== Message Begins ==========
+
+Time : February 26, 2013, 4:43 am
+Message Type : Success
+Message : Leave application email was sent to exhr@excent.co
+
+========== Message Ends ==========
+
+
+Tue 26 Feb 2013 11:01:16 AM PST,614 [29186] INFO core.email - ========== Message Begins ==========
+
+Time : February 26, 2013, 11:01 am
+Message Type : Success
+Message : Leave application email was sent to syam.mullangi@excent.co
+
+========== Message Ends ==========
+
+
+Tue 26 Feb 2013 11:01:18 AM PST,214 [29186] INFO core.email - ========== Message Begins ==========
+
+Time : February 26, 2013, 11:01 am
+Message Type : Success
+Message : Leave application email was sent to exhr@excent.co
+
+========== Message Ends ==========
+
+
+[27-Feb-2013 16:17:56 UTC] PHP Fatal error:  Call to a member function getFullName() on a non-object in /home/srikby/public_html/time/symfony/plugins/orangehrmPimPlugin/lib/form/EmployeeContactDetailsForm.php on line 55
+Fri 01 Mar 2013 06:42:38 AM PST,927 [31739] INFO core.email - ========== Message Begins ==========
+
+Time : March 1, 2013, 6:42 am
+Message Type : Success
+Message : Leave application email was sent to srikanth@excent.co
+
+========== Message Ends ==========
+
+
+Fri 01 Mar 2013 06:42:39 AM PST,183 [31739] INFO core.email - ========== Message Begins ==========
+
+Time : March 1, 2013, 6:42 am
+Message Type : Success
+Message : Leave application email was sent to exhr@excent.co
+
+========== Message Ends ==========
+
+
+Fri 01 Mar 2013 08:02:25 AM PST,246 [4712] INFO core.email - ========== Message Begins ==========
+
+Time : March 1, 2013, 8:02 am
+Message Type : Success
+Message : Leave application email was sent to srikanth@excent.co
+
+========== Message Ends ==========
+
+
+Fri 01 Mar 2013 08:02:25 AM PST,499 [4712] INFO core.email - ========== Message Begins ==========
+
+Time : March 1, 2013, 8:02 am
+Message Type : Success
+Message : Leave application email was sent to exhr@excent.co
+
+========== Message Ends ==========
+
+
+Fri 01 Mar 2013 08:03:05 AM PST,379 [11181] INFO core.email - ========== Message Begins ==========
+
+Time : March 1, 2013, 8:03 am
+Message Type : Success
+Message : Leave application email was sent to srikanth@excent.co
+
+========== Message Ends ==========
+
+
+Fri 01 Mar 2013 08:03:05 AM PST,624 [11181] INFO core.email - ========== Message Begins ==========
+
+Time : March 1, 2013, 8:03 am
+Message Type : Success
+Message : Leave application email was sent to exhr@excent.co
+
+========== Message Ends ==========
+
+
+Fri 01 Mar 2013 08:40:42 AM PST,617 [8636] INFO core.email - ========== Message Begins ==========
+
+Time : March 1, 2013, 8:40 am
+Message Type : Success
+Message : Leave application email was sent to kk@excent.co
+
+========== Message Ends ==========
+
+
+Fri 01 Mar 2013 08:40:42 AM PST,913 [8636] INFO core.email - ========== Message Begins ==========
+
+Time : March 1, 2013, 8:40 am
+Message Type : Success
+Message : Leave application email was sent to exhr@excent.co
+
+========== Message Ends ==========
+
+

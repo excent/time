@@ -1,0 +1,15 @@
+all:
+  doctrine:
+    class: sfDoctrineDatabase
+    param:
+      dsn: 'mysql:host=localhost;port=3306;dbname=srikby_orangehrm'
+      username: srikby_orangehrm
+      password: Excent@123
+      attributes: { export: tables }
+test:
+  doctrine:
+    class: sfDoctrineDatabase
+    param:
+      dsn: 'mysql:host=localhost;port=3306;dbname=test_srikby_orangehrm'
+      username: srikby_orangehrm
+      password: Excent@123

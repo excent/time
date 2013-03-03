@@ -1,0 +1,47 @@
+Client Info
+
+User Agent : Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1312.57 Safari/537.17
+Remote Address : 37.2.150.160
+
+Server Info
+
+Host : time.excent.co
+PHP Version : 5.3.13
+Server : Apache/2.2.23 (Unix) mod_ssl/2.2.23 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635 mod_jk/1.2.35
+Admin : webmaster@time.excent.co
+
+Document Root : /home/srikby/public_html/time
+ROOT_PATH : /home/srikby/public_html/time
+
+OrangeHRM Installation Log
+
+Sun, 24 Feb 2013 13:36:48 -0800 DB Creation - Starting
+Sun, 24 Feb 2013 13:36:48 -0800 DB Creation - Done
+Sun, 24 Feb 2013 13:36:48 -0800 DB Creation - No Errors
+Sun, 24 Feb 2013 13:36:51 -0800 Fill Data Phase 1 - Starting
+Sun, 24 Feb 2013 13:36:51 -0800 Fill Data Phase 1 - Connected to the DB Server
+Sun, 24 Feb 2013 13:36:51 -0800 Fill Data Phase 1 - Selected the DB
+Sun, 24 Feb 2013 13:36:51 -0800 Fill Data Phase 1 - Reading DB Script
+Sun, 24 Feb 2013 13:36:51 -0800 Fill Data Phase 1 - Opened DB Script
+Sun, 24 Feb 2013 13:36:51 -0800 Fill Data Phase 1 - Read DB script
+Sun, 24 Feb 2013 13:36:51 -0800 Fill Data Phase 1 - There are 245 Statements in the DB script
+Sun, 24 Feb 2013 13:36:53 -0800 Fill Data Phase 1 - Done
+Sun, 24 Feb 2013 13:36:53 -0800 Fill Data Phase 1 - No Errors
+Sun, 24 Feb 2013 13:36:56 -0800 Fill Data Phase 2 - Starting
+Sun, 24 Feb 2013 13:36:56 -0800 Fill Data Phase 2 - Connected to the DB Server
+Sun, 24 Feb 2013 13:36:56 -0800 Fill Data Phase 2 - Selected the DB
+Sun, 24 Feb 2013 13:36:56 -0800 Fill Data Phase 2 - Reading DB Script
+Sun, 24 Feb 2013 13:36:56 -0800 Fill Data Phase 2 - Opened DB Script
+Sun, 24 Feb 2013 13:36:56 -0800 Fill Data Phase 2 - Read DB script
+Sun, 24 Feb 2013 13:36:56 -0800 Fill Data Phase 2 - There are 43 Statements in the DB script
+Sun, 24 Feb 2013 13:36:56 -0800 Fill Data Phase 2 - Done
+Sun, 24 Feb 2013 13:36:56 -0800 Fill Data Phase 2 - No Errors
+Sun, 24 Feb 2013 13:36:59 -0800 Create DB user - Starting
+Sun, 24 Feb 2013 13:36:59 -0800 Create DB user - Done
+Sun, 24 Feb 2013 13:36:59 -0800 Create DB user - No Errors
+Sun, 24 Feb 2013 13:37:02 -0800 Create OrangeHRM user - Starting
+Sun, 24 Feb 2013 13:37:02 -0800 Create OrangeHRM user - Done
+Sun, 24 Feb 2013 13:37:02 -0800 Create OrangeHRM user - No Errors
+Sun, 24 Feb 2013 13:37:05 -0800 Write Conf - Starting
+Sun, 24 Feb 2013 13:37:05 -0800 Write Conf - Done
+Sun, 24 Feb 2013 13:37:05 -0800 Write Conf - No Errors
